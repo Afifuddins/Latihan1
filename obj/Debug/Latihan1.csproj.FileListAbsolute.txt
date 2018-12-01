@@ -1,0 +1,10 @@
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.exe.config
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.csprojAssemblyReference.cache
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.Form1.resources
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.Properties.Resources.resources
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.csproj.GenerateResource.cache
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.csproj.CoreCompileInputs.cache
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.exe
+c:\users\axioo class program\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.pdb
